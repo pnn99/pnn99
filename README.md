@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pnn99
+- 👋 Hi, I’m Paulo
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning C# with Unity
 - 📫 How to reach me 
