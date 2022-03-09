@@ -2,7 +2,7 @@
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning C# with Unity
 - 📫 How to reach me 
-      Email: paulonog061@gmail.com
+      Email: paulonog061@gmail.com<br>
       Discord: Corumbá#6094
 
 <!---
