@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Paulo
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning C# and Java
-- 📫 How to reach me<br> 
+- 👋 Oi, eu sou o Paulo
+- 👀 Estudante de SI no IFMG
+- 🌱 Atualmente aprendendo C# e Java
+- 📫 Meus Contatos<br> 
       Email: paulonog061@gmail.com<br>
       Discord: Corumbá#6094
 
